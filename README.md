@@ -1,6 +1,9 @@
 # SortingVisualizer
 Visualizes some of the sorting algorithms that were taught during the IN2010 Algorithms and Data Structures course at UiO.
 
+### Demo:
+- [Demo](https://lukamo1996.github.io/SortingVisualizer)
+
 ![](gif.gif)
 ### Sorting algorithms:
 - Bubble Sort
@@ -8,6 +11,3 @@ Visualizes some of the sorting algorithms that were taught during the IN2010 Alg
 - Insertion Sort
 - Quick Sort
 - HeapSort
-
-### Demo:
-- [Demo](https://lukamo1996.github.io/SortingVisualizer)
