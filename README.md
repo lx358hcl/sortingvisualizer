@@ -1,7 +1,7 @@
 # SortingVisualizer
 Visualizes some of the sorting algorithms that were taught during the IN2010 Algorithms and Data Structures course at UiO.
 
-[./gif.gif](./gif.gif)
+![](gif.gif)
 ### Sorting algorithms:
 - Bubble Sort
 - Selection Sort
