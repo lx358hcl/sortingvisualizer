@@ -1,9 +1,8 @@
-async function bubbleSort(arr){
+async function rarSort(arr){
     var swapped = false;
     for(let i = 0; i < arr.length; i){
         swapped = false;
         for(let j = 0; j < arr.length; j++){
-            swapped
             if(swapped){
                 break
             }            
