@@ -91,6 +91,3 @@ function main(e){
     sorts[selectedSort](y)
     console.log(e.target)
 }
-
-generateArr()
-rarSort(y)
